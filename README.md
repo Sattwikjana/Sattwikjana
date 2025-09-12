@@ -1,6 +1,6 @@
 # Hi there, I'm Sattwik 👋  
 
-🚀 **Analytical and results-oriented management professional** with a background in **Computer Science** and currently pursuing **PGDM at IMT Hyderabad**.  
+🚀 **Analytical and results-oriented management professional** with a background in **Computer Science and Engineering** from **NIT Allahabad** and currently pursuing **PGDM at IMT Hyderabad**.  
 I enjoy working on **data analysis, visualization, and machine learning projects**, with hands-on experience in **Power BI, SQL, and Deep Learning**.  
 I’m passionate about blending **technology, creativity, and management skills** to solve real-world problems.  
 
