@@ -75,9 +75,9 @@
 | Project | What it is |
 |---|---|
 | **Befach B2B** — [befach.com](https://befach.com) | B2B sourcing platform — search **Alibaba** instantly and get a **landed-cost calculator** (product + freight + duties → doorstep price). |
-| **91GI** — [repo](https://github.com/Sattwikjana/91GI) | Premium storefront for India's **Geographical-Indication (GI)** products — 62 heritage products from 22 states, each with its origin story. Vanilla HTML/CSS/JS. |
-| **D'Cal** — [repo](https://github.com/Sattwikjana/dcal-theme) | D2C site for a **zero-electricity hard-water softener** — custom **Shopify theme** (Liquid, Dawn-based + premium layer). |
-| **Befach Foods** — [repo](https://github.com/Sattwikjana/Befach-Rice) | **Befach Diet & Diabetic Rice** — a premium GI-50 low-glycemic rice D2C brand site. |
+| **91GI** | Premium storefront for India's **Geographical-Indication (GI)** products — 62 heritage products from 22 states, each with its origin story. Vanilla HTML/CSS/JS. |
+| **D'Cal** | D2C site for a **zero-electricity hard-water softener** — custom **Shopify theme** (Liquid, Dawn-based + premium layer). |
+| **Befach Foods** | **Befach Diet & Diabetic Rice** — a premium GI-50 low-glycemic rice D2C brand site. |
 
 ---
 
