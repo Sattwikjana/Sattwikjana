@@ -81,12 +81,16 @@
 
 ---
 
-## 🤖 Beyond e-commerce
+## 🤖 More projects — AI, Machine Learning & Data
 
-- **AI & automation** — built **Maya** (the LLM tool-calling assistant above) and an **HR WhatsApp interview bot** that automates candidate screening over WhatsApp.
-- **Machine learning** — [Brain Tumor Classification using a CNN](https://github.com/Sattwikjana/BRAIN-TUMOR-CLASSIFICATION-USING-CONVOLUTIONAL-NEURAL-NETWORK) (deep learning, Jupyter).
-- **Data analytics** — [Census 2011 Analysis](https://github.com/Sattwikjana/Census_2011_Analysis) & [Hotel Chain Analysis](https://github.com/Sattwikjana/Hotel_Chain) — MS SQL Server + Power BI dashboards & insights.
-- **Blockchain** — an exploratory blockchain app.
+| Project | What it is | Stack |
+|---|---|---|
+| 🧠 **Brain Tumor Classification (CNN)** — [repo](https://github.com/Sattwikjana/BRAIN-TUMOR-CLASSIFICATION-USING-CONVOLUTIONAL-NEURAL-NETWORK) | A deep-learning model that detects & classifies brain tumors from MRI scans using a **Convolutional Neural Network**. | Python · Jupyter · Deep Learning |
+| 📊 **Census 2011 Analysis** — [repo](https://github.com/Sattwikjana/Census_2011_Analysis) | Demographic insights from **India's 2011 Census** — data modeling, queries, and interactive dashboards. | MS SQL Server · Power BI |
+| 🏨 **Hotel Chain Analysis** — [repo](https://github.com/Sattwikjana/Hotel_Chain) | Performance & revenue analysis for a hotel chain, turning raw data into business insights. | MS SQL Server · Power BI |
+| 🤝 **HR WhatsApp Interview Bot** | An automation bot that screens & interviews candidates over **WhatsApp** — conversational hiring on autopilot. | Node.js · WhatsApp API |
+| 🛍️ **Maya — AI Shopping Assistant** | LLM **tool-calling** assistant built into Global Shopper: understands a shopper's need, searches the live catalog, and recommends complementary products. | Node.js · LLM tool-calling |
+| ⛓️ **Blockchain App** | An exploratory blockchain application — learning distributed-ledger fundamentals hands-on. | JavaScript |
 
 ---
 
