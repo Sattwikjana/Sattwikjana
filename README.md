@@ -106,9 +106,18 @@ For the ventures above I also owned the **go-to-market**: market-entry strategy,
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sattwikjana&show_icons=true&theme=tokyonight&hide_border=true" alt="Sattwik's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sattwikjana&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Sattwik Jana — GitHub profile details" />
 </p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repository" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-used languages by commits" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive time of day" />
+</p>
+
+<sub align="center">↻ These cards refresh automatically every day via GitHub Actions — no external service, no rate limits.</sub>
 
 ---
 
