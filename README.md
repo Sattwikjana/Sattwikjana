@@ -103,24 +103,6 @@ For the ventures above I also owned the **go-to-market**: market-entry strategy,
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Sattwik Jana — GitHub profile details" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repository" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most-used languages by commits" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive time of day" />
-</p>
-
-<sub align="center">↻ These cards refresh automatically every day via GitHub Actions — no external service, no rate limits.</sub>
-
----
-
 ### 🤝 Connect
 
 - 💼 **LinkedIn** — [linkedin.com/in/sattwik-jana](https://www.linkedin.com/in/sattwik-jana/)
